@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="3;url=https://script.google.com/macros/s/AKfycbynq2FeGGpowxCQRsvBHdzbvXcE2t9MHZqRxScRCGRUvjtyiEJyn7gebfz8OcKC3fKO/exec">
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://script.google.com/macros/s/AKfycbynq2FeGGpowxCQRsvBHdzbvXcE2t9MHZqRxScRCGRUvjtyiEJyn7gebfz8OcKC3fKO/exec";
+        }, 3000);
+    </script>
+</head>
+<body>
+    <h2>Sedang mengarahkan ke GitHub Repository...</h2>
+    <p>Jika tidak otomatis, klik <a href="https://script.google.com/macros/s/AKfycbynq2FeGGpowxCQRsvBHdzbvXcE2t9MHZqRxScRCGRUvjtyiEJyn7gebfz8OcKC3fKO/exec">di sini</a>.</p>
+</body>
+</html>
